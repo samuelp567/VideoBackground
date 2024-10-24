@@ -73,3 +73,20 @@ video{
 #click:hover{
     transform: scale(0.95);
 }
+#about{
+    text-align: center;
+    padding:50px
+}
+
+#about > p{
+    font-size: 20px;
+}
+#about > h2{
+    margin: 40px;
+    color:#4b5163
+}
+i{
+    font-size: 48px;
+    margin: 0 5px;
+    color: #4b5163;
+}
